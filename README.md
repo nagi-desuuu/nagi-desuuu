@@ -1,4 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+![Standalone Version](https://github.com/nagi-desuuu/nagi-desuuu/assets/75596775/3027d0b7-2cb9-424d-83a6-e5de8b01c099)
 
 <!--
 **nagi-desuuu/nagi-desuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
